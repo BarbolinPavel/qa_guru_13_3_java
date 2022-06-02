@@ -37,9 +37,6 @@ public class Main {
 
         System.out.println("str1 + str2 : " + " " + (str1 + str2));
 
-
-
-
         //Показать примеры операций над разными типами данных (int + long, например)
         int t1 = 15;
         double t2 = 7.3;
@@ -87,5 +84,4 @@ public class Main {
         System.out.println("Произведение двух чисел с переполнением в MAX сторону типа int: " + resoult1);
         System.out.println("Произведение двух чисел с переполнением в MIN сторону типа int: " + resoult2);
     }
-
 }
